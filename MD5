@@ -1,10 +1,10 @@
-f38ee08020c45b72b8022ccd705f51f8 *DESCRIPTION
+491c06b7b9a9734f5dc49e68ace286a8 *DESCRIPTION
 c5cc01a6631f7d3d867f3113cb103749 *NAMESPACE
 aea797274899f20f7dbc5b388050339c *R/RcppExports.R
 47f1a03923e9f9406e513df6d346a7c1 *R/getp_Qreg_logP.R
 364634536987336b30ea6bd899bb104b *R/getp_au1.R
 203533f75fc4dbbb8b7920ffd9be99ae *R/getp_aud_estimate_pi_first.R
-6139ba75e377e6cc6ec6ff12346a8828 *R/omniLRT_fast.R
+b52f96170379f40b9a2dbe4686151281 *R/omniLRT_fast.R
 a192b03195c44c2f88d11d96780b9fcd *R/omniRLRT_fast.R
 68413435358fd94249c8bd3ed438c82a *R/support.R
 6e443aeae244765963cfe9c1aea5284a *inst/CKLRT_package.Rmd
@@ -33,7 +33,7 @@ cccf7d320122795b523b199abf405e14 *man/getp_Qreg_P.Rd
 f3c227590751e99588c8c8ec2fe9fd71 *man/getp_au1.Rd
 7962f0406d1ed0bb398c024903b0485e *man/getp_aud_estimate_pi_first.Rd
 422d3d551684d12b7eeff3c5fbd930c0 *man/ifelsetest_C.Rd
-c9606a34f10a3a264f9ffe49f0254c1f *man/omniLRT_fast.Rd
+6d93442ee6fc0a07426b530e115bb1e7 *man/omniLRT_fast.Rd
 99d28be70f88e28feec7df59233e36f1 *man/omniRLRT_fast.Rd
 8a49a4c9deeeb59cfd3b7aac268bb488 *src/Makevars
 0dafbc2c809ad63d4f8dcb1bcc95fe80 *src/RcppExports.cpp
